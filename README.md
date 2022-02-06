@@ -7,7 +7,7 @@
 <!--END_SECTION:waka-->
 
 [![XeviDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=xevidev&theme=aura_dark)](https://github.com/XeviDev/)
-[![XeviDev's GitHub stats](https://github-readme-stats.vercel.app/top-langs/api?username=xevidev&theme=aura_dark&langs_count=5)](https://github.com/XeviDev/)
+[![XeviDev's GitHub Languages](https://github-readme-stats.vercel.app/top-langs/api?username=xevidev&theme=aura_dark&langs_count=3)](https://github.com/XeviDev/)
 
 
 
