@@ -9,5 +9,5 @@
 [![XeviDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=xevidev&theme=aura_dark)](https://github.com/XeviDev/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xevidev&count_private=true&theme=aura_dark)](https://github.com/XeviDev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xevidev&count_private=true&theme=aura_dark&langs_count=8)](https://github.com/XeviDev/)
 
