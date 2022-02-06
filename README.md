@@ -6,8 +6,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![XeviDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=xevidev&theme=aura_dark)](https://github.com/XeviDev/)
+## &#x1f4c8; GitHub Stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xevidev&count_private=true&theme=aura_dark&langs_count=8)](https://github.com/XeviDev/)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xevidev&theme=aura_dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xevidev&count_private=true&theme=aura_dark&langs_count=5"/>
