@@ -3,6 +3,10 @@
 
 <h1>UNDER CONSTRUCTION <img src="/images/Hi.gif" width="30px"/></h1>
 
+## Bald, Geek, Heavy Metal enjoyer and Developer!!!
+
+Hello! My name is Jose Vicente and I come from a village near Alicante, Spain. I love everything that has to do with technology and I enjoy programming. I like programming anything, but I especially enjoy mobile programming in Kotlin. Follow me to see how I grow professionally and improve my English little by little!
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
