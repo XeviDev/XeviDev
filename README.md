@@ -5,9 +5,9 @@
 
 ## Bald, Geek, Heavy Metal enjoyer and Developer 🤘!!!
 
-Hello! My name is Jose Vicente and I come from a village near Alicante, Spain 🇪🇸 . I love everything that has to do with technology and I enjoy programming. I like programming anything, but I especially enjoy mobile programming in Kotlin. Follow me to see how I grow professionally and improve my English little by little!
+Hello! My name is Jose Vicente and I come from a village near Alicante, Spain . I love everything that has to do with technology and I enjoy programming. I like programming anything, but I especially enjoy mobile programming in Kotlin. Follow me to see how I grow professionally and improve my English little by little!
 
-## Technologies and Tools
+## U+1F1EA; Technologies and Tools
 
 ![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android&color=252334)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin&color=252334)
