@@ -1,7 +1,6 @@
 [![Header](/images/headerBueno.png "Header")](https://github.com/XeviDev/)
 
-<!--Hi, Folks!!-->
-<h1>UNDER CONSTRUCTION <img src="/images/Hi.gif" width="30px"/></h1>
+<h1>Hi, Folks!! <img src="/images/Hi.gif" width="30px"/></h1>
 
 ## Bald, Geek, Heavy Metal enjoyer and Developer 🤘!!!
 
@@ -33,13 +32,9 @@ Hello! My name is Jose Vicente and I come from a village near Alicante, Spain . 
 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ## &#x1f4c8; GitHub Stats
-<!--[![XeviDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=xevidev&theme=aura_dark)](https://github.com/XeviDev/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xevidev&count_private=true&theme=aura_dark&langs_count=5)](https://github.com/XeviDev/)-->
 
 <a href="https://github.com/XeviDev/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xevidev&theme=aura_dark" />
@@ -47,4 +42,5 @@ Hello! My name is Jose Vicente and I come from a village near Alicante, Spain . 
 <a href="https://github.com/XeviDev/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xevidev&count_private=true&theme=aura_dark&langs_count=5" />
 </a>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
