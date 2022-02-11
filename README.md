@@ -17,10 +17,10 @@ Hello! My name is Jose Vicente and I come from a village near Alicante, Spain ðŸ
 ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php&color=252334)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&color=252334)
 ![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&color=252334)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=252334)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&color=252334)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&color=252334)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&color=252334)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=252334)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&color=252334)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&color=252334)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&color=252334)
 
 
 
