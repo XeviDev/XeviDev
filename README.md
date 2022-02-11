@@ -4,7 +4,7 @@
 ## Bald, Geek, Heavy Metal enjoyer and Developer <img src="/images/Hi.gif" width="30px"/>!!!
 
 Hello! My name is Jose Vicente and I come from a village near Alicante, Spain . I love everything that has to do with technology and I enjoy programming. I like programming anything, but I especially enjoy mobile programming in Kotlin. Follow me to see how I grow professionally and improve my English little by little!
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/1GEATImIxEXVR79Dhk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk"></a></p>
+<iframe src="https://giphy.com/embed/1GEATImIxEXVR79Dhk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk"></a></p>
 
 ## Follow Me
 
