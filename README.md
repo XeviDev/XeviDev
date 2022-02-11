@@ -9,12 +9,18 @@ Hello! My name is Jose Vicente and I come from a village near Alicante, Spain ðŸ
 
 ## Technologies and Tools
 
-![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![VsCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudio)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
+![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=androidp&color=252334)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlinp&color=252334)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=pythonp&color=252334)
+![VsCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiop&color=252334)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravelp&color=252334)
+![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=phpp&color=252334)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=gitp&color=252334)
+![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=githubp&color=252334)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=whitep&color=252334)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3p&color=252334)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrapp&color=252334)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascriptp&color=252334)
 
 
 
