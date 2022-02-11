@@ -5,6 +5,8 @@
 
 Hello! My name is Jose Vicente and I come from a village near Alicante, Spain . I love everything that has to do with technology and I enjoy programming. I like programming anything, but I especially enjoy mobile programming in Kotlin. Follow me to see how I grow professionally and improve my English little by little!
 
+[<img src="/images/giphy.gif" alt="👋 Hi there! I'm (XeviDev)|https://github.com/XeviDev)" title="👋 Hi there! I'm (XeviDev|https://github.com/XeviDev)"/>](https://github.com/XeviDev)
+
 
 ## Follow Me
 
