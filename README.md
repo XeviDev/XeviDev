@@ -9,7 +9,7 @@ Hello! My name is Jose Vicente and I come from a village near Alicante, Spain ðŸ
 
 ## Technologies and Tools
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-blueviolet?style=for-the-badge&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
