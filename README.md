@@ -9,7 +9,14 @@ Hello! My name is Jose Vicente and I come from a village near Alicante, Spain ðŸ
 
 ## Technologies and Tools
 
+![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![VsCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudio)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
+
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
