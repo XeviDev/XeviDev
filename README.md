@@ -36,13 +36,13 @@ Hello! My name is Jose Vicente and I come from a village near Alicante, Spain . 
 
 
 
-## &#x1f4c8; GitHub Stats
+<!--## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/XeviDev/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xevidev&theme=aura_dark" />
 </a>
 <a href="https://github.com/XeviDev/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xevidev&count_private=true&theme=aura_dark&langs_count=5" />
-</a>
+</a>-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
